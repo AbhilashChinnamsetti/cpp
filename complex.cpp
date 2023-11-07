@@ -2,7 +2,6 @@
 
 #include <iostream>
 using namespace std;
-
 typedef struct complex {
     float real;
     float imag;
