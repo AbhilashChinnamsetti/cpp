@@ -6,7 +6,6 @@ typedef struct complex {
     float real;
     float imag;
 } complexNumber;
-
 complexNumber addComplexNumbers(complex, complex);
 
 
