@@ -10,7 +10,6 @@ int main(){
         a=b;
         b=c;
         cout<<c;
-
     }
 return 0;
 
