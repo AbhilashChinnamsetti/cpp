@@ -6,3 +6,4 @@
     cin >>x;
     cout <<x;    
     return 0;}
+
