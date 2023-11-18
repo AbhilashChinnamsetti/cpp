@@ -8,7 +8,6 @@ typedef struct complex {
 } complexNumber;
 complexNumber addComplexNumbers(complex, complex);
 
-
 int main() {
     complexNumber num1, num2, complexSum;
     char signOfImag;
