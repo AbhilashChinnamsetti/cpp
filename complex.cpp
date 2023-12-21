@@ -1,4 +1,4 @@
-// Complex numbers are entered by the user
+
 
 #include <iostream>
 using namespace std;
