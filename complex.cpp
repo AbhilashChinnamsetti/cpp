@@ -21,13 +21,13 @@ int main() {
     cout << "Enter real and imaginary parts respectively:" << endl;
     cin >> num2.real >> num2.imag;
 
-    // Call add function and store result in complexSum
+  
     complexSum = addComplexNumbers(num1, num2);
 
-    // Use Ternary Operator to check the sign of the imaginary number
+    
     signOfImag = (complexSum.imag > 0) ? '+' : '-';
 
-    // Use Ternary Operator to adjust the sign of the imaginary number
+    
     complexSum.imag = (complexSum.imag > 0) ? complexSum.imag : -complexSum.imag;
 
     cout << "Sum = " << complexSum.real << signOfImag << complexSum.imag << "i";
