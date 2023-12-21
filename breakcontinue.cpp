@@ -17,5 +17,4 @@ int main()
         cout<<"she can go outside";
         pocketmoney=pocketmoney-300;
     }
-
 }
