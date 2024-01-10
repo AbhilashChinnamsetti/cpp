@@ -8,6 +8,5 @@ int main()
         cout<<n;
         cin>>n;
     }while(n>0);
-    
 
 }
