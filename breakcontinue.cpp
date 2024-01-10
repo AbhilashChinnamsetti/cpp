@@ -17,3 +17,4 @@ int main()
         pocketmoney=pocketmoney-300;
     }
 }
+
